@@ -1,0 +1,84 @@
+python,питон
+javascript,js,java script 
+1c,1с
+cloud
+react
+oracle
+shell
+bash
+php
+linux
+unity
+typescript,ts
+java
+kubernetes
+vue
+node.js, node js
+flask
+django
+angular
+c++, с++
+ios
+sql
+bitrix
+mvc
+flutter
+алгоритм,algorithm
+blockchain,блокчеин,блокчейн
+cms
+wordpress
+haskell
+json
+erlang
+asp
+objective-c
+golang
+vue.js,vue js,vuejs
+machine learning,машинное обучение
+perl
+структуры данных,структур данных,data structures
+solidity
+mongodb
+c#,с#
+android
+rest
+.net
+big data
+kernel
+git
+redux
+hadoop
+микроконтроллер
+jvm
+amazon web services,aws
+agile
+scrum
+selenium
+joomla
+docker
+ruby
+unit test
+microservice
+jquery
+database,базы данных,баз данных
+swift
+viper
+scala
+sdk
+kotlin
+xml
+ajax
+apache
+pascal
+perl
+oop, ооп
+firebase
+unix
+spark
+mvvm
+delphi
+ansible
+postgre
+mongodb
+nlp,natural language processing,нлп
+computer vision,компьютерное зрение
