@@ -8,8 +8,8 @@
 # Summary проекта: 
 
 * Предсказывет зарплату с RMSE ~ 39к рублей
-* Обучение проводилось на 6к вакансий (с указанными зарплатами) взятых с официального hh.ru API (данные от 23.07.2020 до 23.08.2020)
-* Использованные модели: Lasso и Ridge regressions, Random Forest Regression, Support Vector Rregression и Gradient Boosting Regression
+* Обучение проводилось на 6к вакансий (с указанными зарплатами), взятых с официального hh.ru API (данные от 23.07.2020 до 23.08.2020)
+* Использованные модели: Lasso и Ridge regressions, Random Forest Regression, Support Vector Regression и Gradient Boosting Regression
 * Есть Telegram Бот как front-end для проекта, через него можно получать прогноз по зарплате на основе URL вакансии с HH.ru, название: @HHPredictorBot
 
 # Сбор данных 
